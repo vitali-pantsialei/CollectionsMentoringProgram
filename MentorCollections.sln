@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFindAndFastAddExample", "FastFindAndFastAddExample\FastFindAndFastAddExample.csproj", "{0D47B96D-B175-4894-B782-46B1F69441D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstAndFastUnitTest", "FirstAndFastUnitTest\FirstAndFastUnitTest.csproj", "{8DFD1E69-8442-471B-BD10-229BA553D83D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D47B96D-B175-4894-B782-46B1F69441D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D47B96D-B175-4894-B782-46B1F69441D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D47B96D-B175-4894-B782-46B1F69441D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D47B96D-B175-4894-B782-46B1F69441D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DFD1E69-8442-471B-BD10-229BA553D83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DFD1E69-8442-471B-BD10-229BA553D83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DFD1E69-8442-471B-BD10-229BA553D83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DFD1E69-8442-471B-BD10-229BA553D83D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

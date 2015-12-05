@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2013\Projects\MentorCollections\FirstAndFastUnitTest\bin\Debug\FirstAndFastUnitTest.dll
+c:\users\user\documents\visual studio 2013\Projects\MentorCollections\FirstAndFastUnitTest\bin\Debug\FirstAndFastUnitTest.pdb
+c:\users\user\documents\visual studio 2013\Projects\MentorCollections\FirstAndFastUnitTest\bin\Debug\FastFindAndFastAddExample.exe
+c:\users\user\documents\visual studio 2013\Projects\MentorCollections\FirstAndFastUnitTest\bin\Debug\FastFindAndFastAddExample.pdb
+c:\users\user\documents\visual studio 2013\Projects\MentorCollections\FirstAndFastUnitTest\obj\Debug\FirstAndFastUnitTest.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\MentorCollections\FirstAndFastUnitTest\obj\Debug\FirstAndFastUnitTest.dll
+c:\users\user\documents\visual studio 2013\Projects\MentorCollections\FirstAndFastUnitTest\obj\Debug\FirstAndFastUnitTest.pdb

@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\MentorCollections\FastFindAndFastAddExample\bin\Debug\FastFindAndFastAddExample.exe.config
+c:\users\user\documents\visual studio 2013\Projects\MentorCollections\FastFindAndFastAddExample\bin\Debug\FastFindAndFastAddExample.exe
+c:\users\user\documents\visual studio 2013\Projects\MentorCollections\FastFindAndFastAddExample\bin\Debug\FastFindAndFastAddExample.pdb
+c:\users\user\documents\visual studio 2013\Projects\MentorCollections\FastFindAndFastAddExample\obj\Debug\FastFindAndFastAddExample.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\MentorCollections\FastFindAndFastAddExample\obj\Debug\FastFindAndFastAddExample.exe
+c:\users\user\documents\visual studio 2013\Projects\MentorCollections\FastFindAndFastAddExample\obj\Debug\FastFindAndFastAddExample.pdb
